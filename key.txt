@@ -1,1 +1,1 @@
-testtool|NRO-PC11-1111-1111-1111
+testtool
